@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160521721348",
+    "project_id": "baitesst-f661c",
+    "storage_bucket": "baitesst-f661c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160521721348:android:3536e98a18dac4239f4751",
+        "android_client_info": {
+          "package_name": "ntu.edu.vn.lamtruong.baitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160521721348-dn33o1l6gtbsq9vb32m8qtdv6ueo1qau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdnOtd0FPU7EyKARuAo7KasBJBDXgJ9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160521721348-dn33o1l6gtbsq9vb32m8qtdv6ueo1qau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

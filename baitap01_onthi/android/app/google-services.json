@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140134017828",
+    "project_id": "bthi01",
+    "storage_bucket": "bthi01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140134017828:android:8ffc74889f59595c3421b1",
+        "android_client_info": {
+          "package_name": "ntu.edu.vn.lamtruong.baitap01_onthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140134017828-v86pemgnl3ij24q4746p7uqb4ssvlp9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DKxIdi8Gqq_3V0l6HM4X6LXHYTRptS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140134017828-v86pemgnl3ij24q4746p7uqb4ssvlp9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
